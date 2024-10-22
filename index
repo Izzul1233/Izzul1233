@@ -1,0 +1,92 @@
+<html>
+ <head>
+  <title>
+    MTs muhammadiyah batang
+  </title>
+  <script src="https://cdn.tailwindcss.com">
+  </script>
+  <link href="502948-mts-muhammadiyah-batang-batang-jawa-tengah.jpg" rel="stylesheet"/>
+  <link href="httpsmin.css://fonts.googleapis.com/css2?family=Roboto:wght@400;700&amp;display=swap" rel="stylesheet"/>
+ </head>
+ <body class="font-roboto">
+  <header class="bg-green-700 text-white">
+   <div class="container mx-auto flex justify-between items-center py-ch2">
+    <div class="flex items-center">
+     <img alt="School Emblem" class="h-10 w-10 mr-2" height="50" src="logo.jpg"
+     <span class="text-lg font-bold">
+      Illustrasi MTs muhammadiyah batang
+     </span>
+    </div>
+    <div class="hidden md:flex items-center space-x-4">
+     <span>
+      Jl. Yos sudarso Gg. Progo No.122/2 kebonan Proyonanggan Utara batang 51211
+     </span>
+     <span>
+      |
+     </span>
+     <span>
+      0287-381820
+     </span>
+     <span>
+      |
+     </span>
+     <span>
+      MTs MUHABAT@gmail.com
+     </span>
+    </div>
+   </div>
+  </header>
+  <nav class="bg-green-600 text-white">
+   <div class="container mx-auto flex justify-between items-center py-2">
+    <ul class="flex space-x-4">
+     <li>
+      <a class="hover:underline" href="index.html">
+       Beranda
+      </a>
+     </li>
+     <li>
+      <a class="hover:underline" href="webite sederhana.html">
+       Fasilitas
+      </a>
+     </li>
+     <li>
+      <a class="hover:underline" href="minat.html">
+       faspres
+      </a>
+     </li>
+     <li>
+      <a class="hover:underline" href="kelas.html">
+       jadwal
+      </a>
+     </li>
+    </ul>
+    <div class="flex items-center space-x-4">
+     <a class="hover:underline" href="#">
+      kontrak
+     </a>
+     <a class="bg-white text-green-600 px-4 py-1 rounded hover:bg-gray-200" href="#">
+      Login
+     </a>
+    </div>
+   </div>
+  </nav>
+  <main class="bg-blue-100">
+   <div class="container mx-auto text-center py-10">
+    <img alt="School Emblem" class="mx-auto mb-4" height="100" src="logo.jpg" width="100"/>
+    <h1 class="text-3xl font-bMT"h1>
+    MTs muhammadiyah Batang
+  
+
+    <div class="mt-10">
+     <img alt="logomts.jpg" class="mx-auto" height="300" src="logomts.jpg" width="800"/>
+    </div>
+    <h2 class="text-xl font-bold mts-4">
+     Mts muhammadiyah batang
+    </h2>
+    <p>
+     Jl. Yos Sudarso Gg. Progo No. 122/2, Batang 51211, Jawa Tengah
+    </p>
+   </div>
+  </main>
+ </body>
+</html>
